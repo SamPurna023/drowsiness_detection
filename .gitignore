@@ -1,0 +1,19 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+
+# Training/evaluation generated artifacts
+training_history.png
+confusion_matrix.png
+alarm.wav
+
+# Large raw/prepared data
+dataset/
